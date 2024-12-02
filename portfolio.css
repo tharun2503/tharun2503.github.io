@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+/*================home=================*/
+
+#sec_home .bg-color {
+    background-color: #191a1d;
+    height: 100%;
+    padding-top: 180px;
+    padding-bottom: 130px;
+}
+
+#sec_home .nav-bg {
+    background-color: #9aa5b1;
+}
+
+#sec_home .nav-j {
+    font-weight: bold;
+    border-color: #4b6cc1;
+    font-family: Roboto;
+    border-style: solid;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#sec_home .nav-secs {
+    color: white !important;
+}
+
+#sec_home img {
+    height: 305px;
+    width: 320px;
+    margin-bottom: 50px;
+}
+
+#sec_home h1 {
+    color: white;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+#sec_home span {
+    color: #4b6cc1;
+}
+
+#sec_home p {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#sec_home button {
+    font-family: Roboto;
+    background-color: #4b6cc1 !important;
+}
+
+/*===================services=====================*/
+
+#sec_services .bg-container {
+    background-color: #3e4c59;
+    width: 100vw;
+    padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+#sec_services h4 {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#sec_services h1 {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#sec_services .card-container {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+#sec_services h3 {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+#sec_services p {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+#sec_services .main-para {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+#sec_services a {
+    color: #cced00;
+    font-family: Roboto;
+}
+
+/*===============about_me================*/
+
+#sec_about_me .bg-color {
+    background-color: #323f4b;
+    height: 100%;
+}
+
+#sec_about_me .facts {
+    color: #cced00;
+    font-size: 18px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+#sec_about_me .abt-h {
+    font-size: 35px;
+    font-family: Roboto;
+    color: white;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#sec_about_me p {
+    color: #9aa5b1;
+    font-size: 15px;
+}
+
+#sec_about_me .skills-img {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+#sec_about_me .skill-name {
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    font-family: Roboto;
+}
+
+#sec_about_me .skill-bg {
+    background-color: #323f4b;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+/*================footer===============*/
+
+#sec_footer .bg-container {
+    background-color: #0d2436;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+#sec_footer .profile-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+}
+
+#sec_footer h4 {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+#sec_footer p {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+#sec_footer .icons {
+    color: #9aa5b1;
+    font-size: 35px;
+}
+
+#sec_footer .bg-container1 {
+    background-color: #001c32;
+    height: 100vh;
+    padding: 20px;
+}
+
+/*================work-done===============*/
+
+#sec_work_done .bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    width: 100vw;
+    height: 100%;
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+#sec_work_done hr {
+    border-style: solid;
+    border-color: white;
+    width: 70px;
+    font-weight: bold;
+}
+
+#sec_work_done h1 {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+#sec_work_done p {
+    color: white;
+    font-family: Roboto;
+}
+
+/*==============projects==============*/
+
+#sec_projects .bg-container {
+    background-color: #3e4c59;
+    width: 100vw;
+    padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+#sec_projects h4 {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#sec_projects .card-container1 {
+    background-color: #323f4b;
+    padding: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 20px;
+}
+
+#sec_projects h3 {
+    color: white;
+    font-family: Roboto;
+}
+
+#sec_projects h1 {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#sec_projects p {
+    color: #9aa5b1;
+    font-family: Roboto;
+}
+
+#sec_projects .main-para {
+    color: #9aa5b1;
+    font-size: 22px;
+}
+
+#sec_projects a {
+    color: #cced00;
+    font-family: Roboto;
+}
